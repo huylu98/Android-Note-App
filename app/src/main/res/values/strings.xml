@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bảo trì xe máy</string>
+    <string name="add_note">Thêm công việc</string>
+    <string name="title">Title</string>
+    <string name="save_changes">Lưu</string>
+    <string name="search_text">Tìm kiếm công việc</string>
+    <string name="note_details">Chi tiết công việc</string>
+    <string name="date_format">MM/dd/yyyy hh:mm:ss a</string>
+    <string name="edit_note">Chỉnh sửa công việc</string>
+    <string name="empty_title_error">Bạn chưa điền đầy đủ thông tin</string>
+    <string name="invalid_date">Nhập ngày chưa đúng định dạng (dd/MM/yyyy)</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="note">Note #</string>
+    <string name="delete_title">Xóa công việc</string>
+    <string name="delete_message">Bạn có chắc chắn muốn xóa công việc này?</string>
+    <string name="yes">Đồng ý</string>
+    <string name="no">Không</string>
+</resources>
